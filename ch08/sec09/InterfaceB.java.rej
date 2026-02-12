@@ -1,0 +1,9 @@
+diff a/ch08/sec09/InterfaceB.java b/ch08/sec09/InterfaceB.java	(rejected hunks)
+@@ -1,6 +0,0 @@
+-package ch08.sec09;
+-
+-public interface InterfaceB {
+-    // 추상 메소드
+-    void methodB();
+-}
+\ No newline at end of file
